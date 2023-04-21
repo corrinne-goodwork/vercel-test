@@ -5,18 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Test nia </p>
-        <p>kkkkkkkkkkkk</p>
-
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>Test nia ho</p>
+        <img src="/sad-cat.gif" alt="sad-cat" />
       </header>
     </div>
   );
