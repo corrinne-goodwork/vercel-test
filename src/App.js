@@ -17,6 +17,7 @@ function App() {
           <li>What is a Cron job </li>
           <li>What is Production vs Dev mode in js, just now you mentioned </li>
           <li>What other ways are there to deploy to production? </li>
+          <li>What is ESLint for? </li>
         </ul>
 
         <img src="/sad-cat.gif" alt="sad-cat" />
